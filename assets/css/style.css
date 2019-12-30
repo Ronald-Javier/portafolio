@@ -20,6 +20,13 @@ header {
 }
 
 #exp h3 {
-    
+
     font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+#works h3 {
+
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
 }
