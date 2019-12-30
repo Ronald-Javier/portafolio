@@ -1,16 +1,19 @@
+
 header {
     background-image: url(../img/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    margin-top: 100px;
-    margin: 0px;
-    padding-top: 350px;
-    height: 737px;
+    padding-bottom: 35rem;
     font-family: 'Oswald', sans-serif;
+    height: 747px;
     
 }
 
+#ronald {
+    padding-top: 20rem;
+
+}
 #about {
     font-family: 'Open Sans', sans-serif;
 }
@@ -26,6 +29,22 @@ header {
 }
 
 #works h3 {
+
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+#works {
+
+    background-color: #17a2b8;
+}
+
+footer {
+    background-color: #17a2b8;
+    height: 218px;
+}
+
+footer h2 {
 
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
