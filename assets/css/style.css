@@ -11,3 +11,15 @@ header {
     
 }
 
+#about {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#about p {
+    font-size: 20px;
+}
+
+#exp h3 {
+    
+    font-family: 'Oswald', sans-serif;
+}
