@@ -41,11 +41,17 @@ header {
 
 footer {
     background-color: #17a2b8;
-    height: 218px;
+    height: 250px;
 }
 
 footer h2 {
 
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
+}
+
+html, body {
+    scroll-padding-top: 100px;
+    scroll-behavior: smooth;
+
 }
